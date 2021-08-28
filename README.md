@@ -3,9 +3,9 @@
 TODO:
  - Build Storybook and host on github pages
  - Make sure that type definitions are rendered
- - Test that the 
 
-[Documentation]()
+
+[Documentation](#) (TODO)
 
 ## Kitchen Sink Example
 
@@ -134,3 +134,49 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## TODO
+
+### Examples
+
+#### Not Done
+ - ... Mediaelement Webaudio
+
+#### Not sure / Require external dependencies
+ - ??? Elan Wave Segment
+ - ??? Playhead
+ - ?.. Split Wave Point Plot
+ - ??? Stretcher
+
+#### Not Relevant
+ - xx---- Angular
+ - xx---- Angular Material
+ - xx---- Html Init
+
+
+#### Done
+ - xxx Annotation
+ - xxx Audio Element
+ - xxx Bars
+ - xxx Cursor
+ - xxx Elan
+ - xxx Equalizer
+ - xxx Markers
+ - xxx Media Session
+ - xxx Microphone
+ - xxx Minimap
+ - xxx Mute
+ - xxx Panner
+ - xxx Playlist
+ - xxx Plugin System
+ - xxx Regions
+ - xxx Rounded Bars
+ - xxx Rtl
+ - xxx Spectrogram
+ - xxx Split Channels
+ - xxx Timeline
+ - xxx Timeline Notches
+ - xxx Vertical
+ - xxx Video Annotation
+ - xxx Video Element
+ - xxx Zoom
