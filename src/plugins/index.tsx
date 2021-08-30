@@ -395,7 +395,7 @@ export const Region: React.FC<any> = ({
         if(!ws || !ws.regions) return;
         const r = ws.regions.list[props.id] || ws.addRegion(props)
         setRegion(r)
-        return () => { r.remove() };
+        return () => { r && r.remove() };
     }, [ ws ]);
 
     useEffect(() => {
